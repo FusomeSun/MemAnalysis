@@ -134,5 +134,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments
 
-* This research was supported by UIUC AI Research Group
+* This research was supported by UIUC CS598 jy2
 * Special thanks to all contributors and reviewers
